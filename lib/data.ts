@@ -40,7 +40,7 @@ export const experiencesData = [
     location: "Bangalore, IN",
     description:
       "I worked as a front-end developer for 6 months. I also upskilled to React.",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(FaReact),
     date: "2022 - 2022",
   },
   {
@@ -48,7 +48,7 @@ export const experiencesData = [
     location: "Koblenz, DE",
     description:
       "I worked as a 'Hotelfachmann Auszubildende,' gaining skills in German communication and customer service.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: "2023 - 2024",
   },
 ] as const;
