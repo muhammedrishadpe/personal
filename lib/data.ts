@@ -39,17 +39,25 @@ export const experiencesData = [
     title: "Flutter Developer",
     location: "Bangalore, IN",
     description:
-      "I worked as a front-end developer for 6 months. I also upskilled to React.",
+      "I worked as a Flutter developer for 5 months. I also upskilled to React.",
     icon: React.createElement(FaReact),
-    date: "2022 - 2022",
+    date: "Jun 2022 - Oct 2022",
+  },
+  {
+    title: "Frontend Developer",
+    location: "Bangalore, IN",
+    description:
+      "During my German language studies, I worked part-time as a front-end developer (React) for 3 months at the same company.",
+    icon: React.createElement(FaReact),
+    date: "Feb 2023 - May 2023",
   },
   {
     title: "Hotelfachmann",
     location: "Koblenz, DE",
     description:
-      "I worked as a 'Hotelfachmann Auszubildende,' gaining skills in German communication and customer service.",
+      "I completed training as a Hotelfachmann and gained skills in German communication and customer service.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - 2024",
+    date: "Nov 2023 - Feb 2024",
   },
 ] as const;
 
@@ -83,10 +91,12 @@ export const skillsData = [
   "JavaScript",
   "React",
   "Node.js",
-  "Git",
-  "Tailwind",
   "MongoDB",
-  "SCSS",
   "Express",
+  "Flutter",
+  "Dart",
+  "Git",
+  "PHP",
   "JAVA",
+  "Figma",
 ] as const;
