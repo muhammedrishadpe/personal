@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Frontend Developer",
     location: "Bangalore, IN",
     description:
-      "During my German language studies, I worked part-time as a front-end developer (React) for 3 months at the same company.",
+      "During my German language studies, I worked part-time as a front-end developer (React) for 3 months.",
     icon: React.createElement(FaReact),
     date: "Feb 2023 - May 2023",
   },
