@@ -34,15 +34,15 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
-  
   {
-    title: "Flutter Developer",
-    location: "Bangalore, IN",
+    title: "Freiwilliges Soziales Jahr (FSJ)",
+    location: "Bad Mergentheim, DE",
     description:
-      "I worked as a Flutter developer for 5 months. I also upskilled to React.",
-    icon: React.createElement(FaReact),
-    date: "Jun 2022 - Oct 2022",
+      "Currently participating in an FSJ to improve my German communication skills through daily interactions and social work in a German-speaking environment.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Juli 2024 - Aktuell",
   },
+ 
   {
     title: "Frontend Developer",
     location: "Bangalore, IN",
@@ -51,13 +51,14 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "Feb 2023 - May 2023",
   },
+ 
   {
-    title: "Hotelfachmann",
-    location: "Koblenz, DE",
+    title: "Flutter Developer",
+    location: "Bangalore, IN",
     description:
-      "I completed training as a Hotelfachmann and gained skills in German communication and customer service.",
-    icon: React.createElement(CgWorkAlt),
-    date: "Nov 2023 - Feb 2024",
+      "I worked as a Flutter developer for 5 months. I also upskilled to React.",
+    icon: React.createElement(FaReact),
+    date: "Jun 2022 - Oct 2022",
   },
 ] as const;
 
