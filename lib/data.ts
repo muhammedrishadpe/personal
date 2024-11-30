@@ -42,9 +42,17 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "Juli 2024 - Aktuell",
   },
+  {
+    title: "Schnupperpraktikum At Würth Industrie Service",
+    location: "Bad Mergentheim, DE",
+    description:
+      "During my internship at Würth Industrie Service, I gained valuable insights into various areas of SAP. I was introduced to international SAP projects, working with modules such as SAP SD, SAP MM, and SAP FICO. I also learned the fundamentals of Kanban Management System (KMS) development and gained initial experience in C# programming. In Business Solution Consulting, I developed an understanding of the consulting process, including the collaboration between clients, consultants, and developers, as well as visualizing business processes using Microsoft Visio. Additionally, I deepened my knowledge in SAP development and ABAP programming through practical tasks. I also had the opportunity to explore procurement, logistics, and quality management, with a focus on their integration into SAP systems.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Nov 2024 – Nov 2024",
+  },
  
   {
-    title: "Frontend Developer",
+    title: "Frontend Developer At AdaptNXT Technology Solutions Pvt Ltd (PointNXT)",
     location: "Bangalore, IN",
     description:
       "During my German language studies, I worked part-time as a front-end developer (React) for 3 months.",
@@ -53,7 +61,7 @@ export const experiencesData = [
   },
  
   {
-    title: "Flutter Developer",
+    title: "Flutter Developer At AdaptNXT Technology Solutions Pvt Ltd (PointNXT)",
     location: "Bangalore, IN",
     description:
       "I worked as a Flutter developer for 5 months. I also upskilled to React.",
