@@ -43,7 +43,7 @@ export const experiencesData = [
     date: "Juli 2024 - Aktuell",
   },
   {
-    title: "Schnupperpraktikum  Würth Industrie Service",
+    title: "Schnupperpraktikum ",
     location: " Würth Industrie Service, Bad Mergentheim, DE",
     description:
       "During my internship at Würth Industrie Service, I gained valuable insights into various areas of SAP. I was introduced to international SAP projects and worked with modules like SAP SD, SAP MM, and SAP FICO. I also learned the basics of the Kanban Management System (KMS) and got some initial experience in C# programming. In Business Solution Consulting, I developed an understanding of the consulting process, which involved collaboration between clients, consultants, and developers, as well as visualizing business processes using Microsoft Visio. Additionally, I deepened my knowledge in SAP development and ABAP programming through hands-on tasks. I also had the chance to explore procurement, logistics, and quality management, focusing on how they integrate into SAP systems.",
