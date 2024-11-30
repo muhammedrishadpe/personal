@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Schnupperpraktikum  Würth Industrie Service",
     location: " Würth Industrie Service, Bad Mergentheim, DE",
     description:
-      "During my internship at Würth Industrie Service, I gained valuable insights into various areas of SAP. I was introduced to international SAP projects, working with modules such as SAP SD, SAP MM, and SAP FICO. I also learned the fundamentals of Kanban Management System (KMS) development and gained initial experience in C# programming. In Business Solution Consulting, I developed an understanding of the consulting process, including the collaboration between clients, consultants, and developers, as well as visualizing business processes using Microsoft Visio. Additionally, I deepened my knowledge in SAP development and ABAP programming through practical tasks. I also had the opportunity to explore procurement, logistics, and quality management, with a focus on their integration into SAP systems.",
+      "During my internship at Würth Industrie Service, I gained valuable insights into various areas of SAP. I was introduced to international SAP projects and worked with modules like SAP SD, SAP MM, and SAP FICO. I also learned the basics of the Kanban Management System (KMS) and got some initial experience in C# programming. In Business Solution Consulting, I developed an understanding of the consulting process, which involved collaboration between clients, consultants, and developers, as well as visualizing business processes using Microsoft Visio. Additionally, I deepened my knowledge in SAP development and ABAP programming through hands-on tasks. I also had the chance to explore procurement, logistics, and quality management, focusing on how they integrate into SAP systems.",
     icon: React.createElement(CgDatabase),
     date: "Nov 2024 – Nov 2024",
   },
@@ -64,7 +64,7 @@ export const experiencesData = [
     title: "Flutter Developer",
     location: " AdaptNXT Technology Solutions Pvt Ltd, Bangalore, IN",
     description:
-      "I worked as a Flutter developer for 5 months. I also upskilled to React.",
+      "I created a cross-platform app for iOS and Android using Flutter, which provided a smooth and consistent user experience on both platforms. Additionally, I worked on integrating the backend with Swagger API, closely collaborating with backend developers to ensure everything integrated smoothly and efficiently.",
     icon: React.createElement(FaReact),
     date: "Jun 2022 - Oct 2022",
   },
