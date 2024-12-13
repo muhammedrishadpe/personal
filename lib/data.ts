@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Praktikum ",
     location: "SSI SCHÄFER IT SOLUTIONS GmbH, Giebelstadt, DE",
     description:
-      "During my internship at SSI SCHÄFER IT SOLUTIONS GmbH in Giebelstadt, Germany, I worked with Java programming and IntelliJ IDEA, explored the in-house logistics software WAMAS, and familiarized myself with the emulation software antSim. I also learned about algorithms, data structures, and object-oriented programming.",
+      "During my internship at SSI SCHÄFER IT SOLUTIONS GmbH in Giebelstadt, I worked with Java programming and IntelliJ IDEA, explored the in-house logistics software WAMAS, and familiarized myself with the emulation software antSim. I also learned about algorithms, data structures, and object-oriented programming.",
     icon: React.createElement(CgServer),
     date: "Dec 2024 – Dec 2024",
   },
