@@ -1,5 +1,5 @@
 import React from "react";
-import { CgDatabase, CgWorkAlt } from "react-icons/cg";
+import { CgDatabase, CgServer, CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import task from "@/public/task.png";
@@ -41,6 +41,14 @@ export const experiencesData = [
       "Currently participating in an FSJ to improve my German communication skills through daily interactions and social work in a German-speaking environment.",
     icon: React.createElement(CgWorkAlt),
     date: "Juli 2024 - Aktuell",
+  },
+  {
+    title: "Praktikum ",
+    location: "SSI SCHÄFER IT SOLUTIONS GmbH, Giebelstadt, DE",
+    description:
+      "During my internship at SSI SCHÄFER IT SOLUTIONS GmbH in Giebelstadt, Germany, I worked with Java programming and IntelliJ IDEA, explored the in-house logistics software WAMAS, and familiarized myself with the emulation software antSim. I also learned about algorithms, data structures, and object-oriented programming.",
+    icon: React.createElement(CgServer),
+    date: "Dec 2024 – Dec 2024",
   },
   {
     title: "Schnupperpraktikum ",
